@@ -7,3 +7,5 @@ const colors = {
  blue: "#0000ff",
  "golden rod": '#daa520'
 };
+
+console.log(colors["golden rod"]);
