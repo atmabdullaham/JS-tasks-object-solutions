@@ -27,11 +27,4 @@ Object.entries(myObject).forEach(([key, value]) => {
  console.log(`Key: ${key}, Value: ${value}, Type: ${typeof value}`);
 });
 
-let myObject2 = {
- name: 'John Doe',
- age: 25,
- city: 'Example City',
- isStudent: true
-};
 
-for (let i = 0;)
