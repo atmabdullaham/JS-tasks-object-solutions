@@ -12,3 +12,8 @@ const student = {
 };
 
 console.log(student.physics.marks);
+
+// similar
+// Display the physics book author as  a output.
+console.log(student.physics.author);
+

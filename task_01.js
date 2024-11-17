@@ -9,3 +9,9 @@ const colors = {
 };
 
 console.log(colors["golden rod"]);
+
+
+//related 
+// Access the blue color value in output:
+
+console.log(colors['blue'])
